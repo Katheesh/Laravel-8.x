@@ -18,6 +18,7 @@
     "env": {
         "APP_NAME": "Laravel 8x",
         "APP_ENV": "local",
+        "APP_KEY": "base64:RMD+22mZ0TSnkVq6wuOEgIY5SC5TQ831reHp5WR4Hr8=",
         "APP_DEBUG": "true",
         "APP_URL": "https://laravel-8-x.vercel.app",
         "VERCEL_DEMO_MODE": "true",
